@@ -30,4 +30,4 @@ This project predicts whether a person's income exceeds $50K/year using ML algor
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nazna19/)
 - 📬 Email: naznanazar19@gmail.com
-- 💻 GitHub: [ThoibaSaleem](https://github.com/Nazna-Nazar)
+- 💻 GitHub: (https://github.com/Nazna-Nazar)
